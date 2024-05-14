@@ -19,7 +19,7 @@ To use FinalDB, follow these steps:
 1. **Clone the Repository:** Clone this repository to your local machine using Git.
 
     ```bash
-    git clone https://github.com/your-username/FinalDB-Management.git
+    git clone https://github.com/hrag03/DB-Management-System.git
     ```
 
 2. **Set Up the Database:** Execute the SQL scripts to create and populate the FinalDB database.
@@ -28,8 +28,4 @@ To use FinalDB, follow these steps:
 
 ## Contributing
 
-Contributions to FinalDB Management are welcome! If you have suggestions, improvements, or new SQL scripts to add, feel free to fork this repository, make your changes, and submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
+Contributions to DB Management System are welcome! If you have suggestions, improvements, or new SQL scripts to add, feel free to fork this repository, make your changes, and submit a pull request.
